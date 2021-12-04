@@ -1,3 +1,3 @@
 # CppDroid
 
-Example ad Tutorial of CppDroid
+Example ad Tutorials of CppDroid
